@@ -5,6 +5,7 @@ body
   text-align: center;
   font-family: 'Merriweather', serif;
 }
+
 h1
 {
   font-size: 5.625rem; /*1em = 100% =16px*/
@@ -12,6 +13,7 @@ h1
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
 }
+
 h2
 {
   font-size: 2.5rem; /*1em = 100% =16px*/
@@ -20,6 +22,7 @@ h2
   font-weight: normal;
   padding-bottom: 10px;
 }
+
 h3
 {
   font-family: 'Montserrat', sans-serif;
